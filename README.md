@@ -17,10 +17,14 @@ A program that searches for the color of a pixel on your screen or a selected ph
 3. Откройте папку EyeSpy / Open the EyeSpy folder
 4. Запустите EyeSpy.exe / Run EyeSpy.exe
 
+![Logotype](./docs/One.png)
+
 ## Документация / Documentations
 Документация на русском языке - [RU](./docs/files/documents_ru.md)
 
 Documentation in English - [EN](./docs/files/documents_en.md)
+
+![Logotype](./docs/4k.png)
 
 ## Лицензия и распространение программы / License and distribution of the program
 
