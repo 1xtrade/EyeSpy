@@ -3,11 +3,11 @@
 
 A program that searches for the color of a pixel on your screen or a selected photo.
 
-![Static Badge](https://img.shields.io/badge/1xtrade-EyeSpy-зелен)
-![GitHub languages](https://img.shields.io/github/languages/top/1xtrade/EyeSpy)
-![GitHub](https://img.shields.io/github/license/1xtrade/EyeSpy)
-![GitHub Repo stars](https://img.shields.io/github/stars/1xtrade/EyeSpy)
-![GitHub issues](https://img.shields.io/github/issues/1xtrade/EyeSpy)
+![1xtrade EyeSpy](https://img.shields.io/badge/1xtrade-EyeSpy-00599C?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00599C&textColor=ffffff)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117&color=00599C&textColor=ffffff)
+![License: MIT](https://img.shields.io/badge/License-MIT-00599C?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117&color=00599C&textColor=ffffff)
+![GitHub Repo stars](https://img.shields.io/github/stars/1xtrade/EyeSpy?style=for-the-badge&logo=superuser&logoColor=white&labelColor=0d1117&color=00599C&textColor=ffffff)
+![GitHub issues](https://img.shields.io/github/issues/1xtrade/EyeSpy?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117&color=00599C&textColor=ffffff)
 
 ![Logotype](./docs/eyespy.jpg)
 
